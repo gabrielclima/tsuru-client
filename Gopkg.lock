@@ -48,9 +48,9 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/Nvveen/Gotty"
+  name = "github.com/ijc/Gotty"
   packages = ["."]
-  revision = "cd527374f1e5bff4938207604a14f2e38a9cf512"
+  revision = "a8b993ba6abdb0e0c12b0125c603323a71c7790c"
 
 [[projects]]
   name = "github.com/RobotsAndPencils/go-saml"
@@ -645,6 +645,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "b0926a65f5b988dcfde1f2dc61b7b4621865f039e9eb8f60519ec52e718cdda7"
+  inputs-digest = "0995abebdc88f9a4ca331581576f9df8ab5e166b1e8587690f87c7335b01e6c6"
   solver-name = "gps-cdcl"
   solver-version = 1
